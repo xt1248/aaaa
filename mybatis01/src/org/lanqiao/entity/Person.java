@@ -1,5 +1,7 @@
 package org.lanqiao.entity;
-//1234
+
+//1234+5678bbb
+
 public class Person {
 	private int id;
 	private String name;
