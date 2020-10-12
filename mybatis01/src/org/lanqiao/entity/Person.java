@@ -1,7 +1,7 @@
 package org.lanqiao.entity;
 
 
-//5678+1234
+//xtz
 
 public class Person {
 	private int id;
