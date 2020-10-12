@@ -1,15 +1,8 @@
 package org.lanqiao.entity;
-<<<<<<< HEAD
 
 
-//xtz
+//xtz+xt
 
-=======
-
-
-//xt
-
->>>>>>> branch 'master' of https://github.com/xt1248/aaaa.git
 public class Person {
 	private int id;
 	private String name;
